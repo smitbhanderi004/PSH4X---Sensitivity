@@ -2,10 +2,10 @@
    "app_redirectOtherAppStatus":"0",
    "app_newPackageName":"https://play.google.com/store/apps/details?id=starutsav.freestarutsavserialsapps15.freestarutsavserialsapp",
    "app_AppOpenAdStatus":"0",
-   "qureka":"http://446.set.qureka.com/",
+   "qureka":"https://play258.atmegame.com",
    "qureka_splash":"0",
    "qureka_status":"0",
-   "qureka_dailog":"1",
+   "qureka_dailog":"0",
    "more_app":"https://raw.githubusercontent.com/smitbhanderi/RajMandir4/main/db.json",
    "admob_showAdStatus":"0",
    "AppID":"ca-app-pub-5517092987757413~8240781391",
@@ -16,8 +16,8 @@
    "topon_showStatus":"1",
    "topon_appid":"a636f6480c887c",
    "topon_appkey":"7bc113301010927be30fd42988bb79cc",
-   "topon_banner":"b636f649c1a315",
-   "topon_inter1":"b636f649c76afa",
-   "topon_inter2":"b636f649ce1aea",
-   "topon_native":"b636f649d58bc8"
+   "topon_banner":"",
+   "topon_inter1":"",
+   "topon_inter2":"",
+   "topon_native":""
 }
